@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FitPulse</string>
+    <string name="dashboard_title">FitPulse Dashboard</string>
+    <string name="goals_title">Fitness Goals</string>
+    <string name="charts_title">Progress Charts</string>
+    <string name="activity_logs_title">Activity Logs</string>
+    <string name="log_activity">Log Activity</string>
+    <string name="create_goal">New Goal</string>
+    <string name="edit_goal">Edit Goal</string>
+    <string name="delete_goal">Delete Goal</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="today_progress">Today\'s Progress</string>
+    <string name="streak_days">Day Streak</string>
+    <string name="daily_goals">Daily Goals</string>
+    <string name="target_milestones">Target Milestones</string>
+    <string name="quick_log">Quick Log</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="workout">Workout</string>
+    <string name="water">Hydration</string>
+    <string name="weight">Weight</string>
+</resources>

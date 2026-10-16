@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "Personal fitness goals tracker with integrated progress charts, workout logging, metrics analysis, and streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
